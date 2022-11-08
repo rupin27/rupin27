@@ -1,4 +1,4 @@
-Currently a rising junior with work experience as a Coding Assistant. A responsible, motivated, and diverse individual with exceptional organizational and a detail-oriented mindset.
+Currently a senior with work experience as a Software/DevOps Engineer. A responsible, motivated, and diverse individual with exceptional organizational and a detail-oriented mindset.
 
 I have coding expertise in Java, Javascript, C, C++, HTML, Python across platforms like Visual Studio Code, Ocelot, Eclipse, jGRASP, Linux/Unix. I am currently working on Fullstack Web Development and interacting with CSS, jQuery, Django, and Wagtail.
 
