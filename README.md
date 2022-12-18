@@ -6,4 +6,4 @@ I have extensive learning in Object Oriented Programming, Data Structures, Algor
 
 My future focus is to grow in the field of Artificial Intelligence and Machine Learning. I hold a strong and committed work ethic, exceptional leadership skills, and have an ambition in diverse professional arenas including trading and investing. Comfortable working autonomously or in a team-based setting. Committed to maintaining high standards of accuracy and productivity as a programmer.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rupin27&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![trophy](https://github-profile-trophy.vercel.app/?username=rupin27)
