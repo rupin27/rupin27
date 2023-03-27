@@ -4,4 +4,4 @@ I have coding expertise in Python, Java, Javascript, C, C++, SQL, HTML, ReactJS,
 
 I have extensive learning in Object Oriented Programming, Data Structures, Algorithms and Analysis, Multithreading, Networking, Search Engines, Artificial Intelligence, Machine Learning, White-Box Testing and Unit Testing, Great Programming Methodology.
 
-My future focus is to grow in the field of Artificial Intelligence and Machine Learning. I hold a strong and committed work ethic, exceptional leadership skills, and have an ambition in diverse professional arenas including trading and investing. Comfortable working autonomously or in a team-based setting. Committed to maintaining high standards of accuracy and productivity as a programmer.
+My future focus is to grow in the field of Artificial Intelligence and Machine Learning. I hold a strong and committed work ethic, exceptional leadership skills, and have an ambition in diverse professional arenas including trading and investing. Committed to maintaining high standards of accuracy and productivity as a programmer.
