@@ -1,7 +1,1 @@
-Currently a senior pursuing a Bachelor's Degree in Computer Science at the University of Massachusetts Amherst. A responsible, motivated, and diverse individual with exceptional organizational and a detail-oriented mindset.
-
-I have coding expertise in Python, Java, Javascript, C, C++, SQL, HTML, ReactJS, Git across platforms like Visual Studio Code, Ocelot, Eclipse, jGRASP, Linux/Unix. I am currently working on Fullstack Web Development and interacting with CSS, jQuery, Django, and Wagtail.
-
-I have extensive learning in Object Oriented Programming, Data Structures, Algorithms and Analysis, Multithreading, Networking, Search Engines, Artificial Intelligence, Machine Learning, White-Box Testing and Unit Testing, Great Programming Methodology.
-
-My future focus is to grow in the field of Artificial Intelligence and Machine Learning. I hold a strong and committed work ethic, exceptional leadership skills, and have an ambition in diverse professional arenas including trading and investing. Committed to maintaining high standards of accuracy and productivity as a programmer.
+As a highly motivated and skilled software engineer, I have experience in designing and developing software as well as live applications. Proven ability to work in a team, continuously improve processes, and apply new technologies to deliver high-quality products. My passion and expertise empowers me to have a substantial impact on a firm that shares my dedication to creating a positive difference.
