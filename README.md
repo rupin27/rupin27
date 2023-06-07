@@ -1,6 +1,6 @@
 ![](src/bannerrupin27.gif)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=EDAE49&vCenter=true&width=500&lines=Software+Engineer;Software+Developer;Backend+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=24&pause=500&color=EDAE49&vCenter=true&width=500&lines=Software+Engineer;Software+Developer;Backend+Engineer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupin27&style=flat&color=edae49)
 
@@ -17,14 +17,16 @@ Feel free to explore and connect...
 
 🧠 Recently focussing on Artificial Intelligence and Machine Learning to expand my knowledge and stay up to date with upcoming technologies.
 
-📚 Reading [The Gifts of Imperfection by Brené Brown](https://app.thestorygraph.com/books/16e61f4f-ffa8-412b-962d-6a794f73c198).
+📚 Reading [The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams](https://app.thestorygraph.com/books/e032e483-9c9e-4366-a41f-a8fc01a9adf2).
 
 ## Experience 💼
 
+Currently working as a Software Developer Intern @ Naralytics
+
 I have previously worked as:
 
-- a Software Developer Intern at the Naralytics where I built an application and UI components using React Native, leveraging its versatility across both iOS and Android platforms, resulting in a seamless user experience. Alongside, I developed a BERT model for data labeling and classification, enabling accurate and specific psychometric assessments across various use cases within the app.
-- a Software Engineer Intern at Elucidata where I developed and maintained software systems and computing infrastructure utilizing Java and JavaScript, while effectively identifying and resolving defects through troubleshoots, supporting data architecture, and generating reports.
+- a Software Developer Intern at the Naralytics where I built an application and UI components using React Native, leveraging its versatility across both iOS and Android platforms, resulting in a seamless user experience. Alongside, I developed a NLP BERT model for data labeling and classification, enabling accurate and specific psychometric assessments across various use cases within the app.
+- a Software Engineer Intern at Elucidata where I developed and maintained software systems and computing infrastructure utilizing Java, JavaScript, and SQL, while effectively identifying and resolving defects through troubleshoots, supporting data architecture, and generating reports.
 
 ## Skills 📐
 
