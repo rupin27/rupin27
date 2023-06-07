@@ -1,4 +1,4 @@
-<video src="src/bannerrupin27.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
+![](src/bannerrupin27.gif)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=EDAE49&vCenter=true&width=500&lines=Software+Engineer;Software+Developer;Backend+Engineer)
 
