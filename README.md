@@ -1,4 +1,4 @@
-<!-- ![Header Image](/assets/header-image.png) -->
+<video src="src/bannerrupin27.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&pause=1000&color=EDAE49&vCenter=true&width=500&lines=Software+Engineer;Software+Developer;Backend+Engineer)
 
@@ -28,7 +28,7 @@ I have previously worked as:
 
 ## Skills 📐
 
-![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,ruby,nodejs,react,html,css,xml,jquery,bootstrap,js,aws,git,docker,github,heroku,jest,postman,pytorch,tensorflow,mysql,postgres,mongodb,firebase,visualstudio,vscode,eclipse,wordpress,linux,linkedin,matlab,discord,figma)
+![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,ruby,nodejs,react,html,css,jquery,bootstrap,js,aws,git,docker,github,heroku,jest,postman,pytorch,tensorflow,mysql,postgres,mongodb,firebase,visualstudio,vscode,eclipse,wordpress,linux,linkedin,matlab,discord,figma)
 
 ## Stats 📈
 
