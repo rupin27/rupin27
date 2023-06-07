@@ -21,8 +21,6 @@ Feel free to explore and connect...
 
 ## Experience 💼
 
-![EncryptedList](https://github-readme-stats.vercel.app/api/pin/?username=rupin27&repo=encrypted-list&show_owner=true&theme=transparent&icon_color=edae49&title_color=edae49&border_color=edae49&text_color=f1f3f5&bg_color=22272E)
-
 I have previously worked as:
 
 - a Software Developer Intern at the Naralytics where I built an application and UI components using React Native, leveraging its versatility across both iOS and Android platforms, resulting in a seamless user experience. Alongside, I developed a BERT model for data labeling and classification, enabling accurate and specific psychometric assessments across various use cases within the app.
@@ -30,12 +28,11 @@ I have previously worked as:
 
 ## Skills 📐
 
-![My Skills](https://skillicons.dev/icons?i=js,py,java,c,cplusplus,ruby,nodejs,html5,css,xml)
+![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,ruby,nodejs,react,html,css,xml,jquery,bootstrap,js,aws,git,docker,github,heroku,jest,postman,pytorch,tensorflow,mysql,postgres,mongodb,firebase,visualstudio,vscode,eclipse,wordpress,linux,linkedin,matlab,discord,figma)
 
 ## Stats 📈
 
-![Dawit's GitHub Streak](https://streak-stats.demolab.com?user=rupin27&theme=github-dark-blue&border=EDAE49&stroke=EDAE49&fire=EDAE49&background=22272E&ring=EDAE49&sideNums=EDAE49)
-![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupin27&show_icons=true&theme=transparent&hide=contribs&count_private=true&custom_title=My%20GitHub%20Stats&text_bold=false&icon_color=edae49&title_color=edae49&border_color=edae49&text_color=f1f3f5&bg_color=22272E)
+![Rupin's GitHub Streak](https://streak-stats.demolab.com?user=rupin27&theme=github-dark-blue&border=EDAE49&stroke=EDAE49&fire=EDAE49&background=22272E&ring=EDAE49&sideNums=EDAE49)
 
 > "Hardwork beats talent, when talent dosen't work hard." <br />- **Marius(Proffessor at UMass Amherst)**
 
@@ -43,13 +40,9 @@ I have previously worked as:
 
 [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-[antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-
 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-
-[Evavic44/Evavic44](https://github.com/Evavic44/Evavic44) (Inspiration)
 
 [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 
