@@ -19,7 +19,7 @@ Feel free to explore and connect...
 
 ## Experience 💼
 
-Currently working as a <b><i>Software Developer Intern @ Naralytics</i></b>
+Currently working as a <b><i>Software Developer @ Naralytics</i></b>
 
 I have previously worked as:
 
