@@ -19,11 +19,11 @@ Feel free to explore and connect...
 
 ## Experience 💼
 
-Currently working as a <b><i>Software Developer @ Naralytics</i></b>
+Currently working as a <b><i>Software Engineer @ Spectrio </i></b>
 
 I have previously worked as:
 
-- a <b><i>Software Developer Intern at the Naralytics</i></b> where I built an application and UI components using React Native, leveraging its versatility across both iOS and Android platforms, resulting in a seamless user experience. Alongside, I developed a NLP BERT model for data labeling and classification, enabling accurate and specific psychometric assessments across various use cases within the app.
+- a <b><i>Software Developer at the Naralytics</i></b> where I built an application and UI components using React Native, leveraging its versatility across both iOS and Android platforms, resulting in a seamless user experience. Alongside, I developed a NLP BERT model for data labeling and classification, enabling accurate and specific psychometric assessments across various use cases within the app.
 - a <b><i>Software Engineer Intern at Elucidata</i></b> where I developed and maintained software systems and computing infrastructure utilizing Java, JavaScript, and SQL, while effectively identifying and resolving defects through troubleshoots, supporting data architecture, and generating reports.
 
 ## Skills 📐
