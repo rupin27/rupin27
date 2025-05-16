@@ -1,6 +1,6 @@
 ![](src/bannerrupin27.gif)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=2000&pause=200&color=EDAE49&vCenter=true&width=900&height=60&lines=Software+Engineer;Software+Developer;Backend+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=2000&pause=200&color=EDAE49&vCenter=true&width=900&height=60&lines=Software+Engineer;Full+Stack+Developer;Certified+Generative+AI+Engineer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupin27&style=flat&color=edae49)
 
