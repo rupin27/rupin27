@@ -1,19 +1,37 @@
-![](src/bannerrupin27.gif)
+<p align="center">
+  <img src="src/bannerrupin27.gif" />
+</p>
 
-<img src="src/GenAIEngineerBadge.png" width="200" />
+<table>
+<tr>
+<td width="220" valign="middle" align="center">
+  <img src="src/GenAIEngineerBadge.png" width="200" />
+</td>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=2000&pause=200&color=EDAE49&vCenter=true&width=900&height=60&lines=Software+Engineer;Full+Stack+Developer;Certified+Generative+AI+Engineer)
+<td valign="top">
 
+# Rupin Mehra
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=24&duration=2000&pause=200&color=EDAE49&vCenter=true&width=650&height=60&lines=Software+Engineer;Full+Stack+Developer;Certified+Generative+AI+Engineer)
+
+Software Engineer with experience building enterprise-scale web applications, Generative AI systems, Retrieval-Augmented Generation (RAG) pipelines, and cloud-native solutions. Passionate about creating intelligent software that delivers measurable business impact.
+
+<a href="https://www.linkedin.com/in/rupinmehra/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rupin27">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+</a>
+<a href="https://instagram.com/rupin27">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupin27&style=flat&color=edae49)
 
-> As a highly motivated and skilled software engineer, I have experience in designing and developing software as well as live applications. Proven ability to work in a team, continuously improve processes, and apply new technologies to deliver high-quality products. My passion and expertise empowers me to have a substantial impact on a firm that shares my dedication to creating a positive difference.
+</td>
+</tr>
+</table>
 
-Feel free to explore and connect...
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupinmehra/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/rupin27/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rupin27/)
 ## Currently...
 
 🧠 Recently focussing on Artificial Intelligence and Machine Learning to expand my knowledge and stay up to date with upcoming technologies.
