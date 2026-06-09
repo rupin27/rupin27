@@ -37,9 +37,9 @@ I have previously worked as:
 
 ![Rupin's GitHub Streak](https://streak-stats.demolab.com?user=rupin27&theme=github-dark-blue&border=EDAE49&stroke=EDAE49&fire=EDAE49&background=22272E&ring=EDAE49&sideNums=EDAE49)
 
-> "Hardwork beats talent, when talent dosen't work hard." <br />- **Marius(Proffessor at UMass Amherst)**
+> "Hardwork beats talent, when talent dosen't work hard." <br />- **Marius Minea (Proffessor at UMass Amherst)**
 
-## Thanks 🙏🏽
+## Thanks 🙏
 
 [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
